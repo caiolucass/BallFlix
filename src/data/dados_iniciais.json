@@ -1,0 +1,179 @@
+{
+  "categorias": [
+    {
+      "titulo": "Enterradas",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#0000CD",
+      "link_extra": {
+        "text": "Melhores enterradas do ano",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Best of Lebron James",
+          "url": "https://www.youtube.com/watch?v=N1SLd93oF5w"
+        },
+        {
+          "titulo": "Best of Dunks",
+          "url": "https://www.youtube.com/watch?v=yLtIBAhflUI"
+        },
+        {
+          "titulo": "NBA´s Top 100 Dunks",
+          "url": "https://www.youtube.com/watch?v=ujGSt-93qZo"
+        },
+        {
+          "titulo": "NBA´s Best dunks",
+          "url": "https://www.youtube.com/watch?v=l3W67AvMakI"
+        },
+        {
+          "titulo": "2020 NBA Dunk Contest Full Highligths",
+          "url": "https://www.youtube.com/watch?v=BsL7pjxko7Q"
+        },
+        {
+          "titulo": "2016 NBA Slum Dunk",
+          "url": "https://www.youtube.com/watch?v=CZFQPupSEnk"
+        },
+        {
+          "titulo": "Best Dunks in NBA History",
+          "url": "https://www.youtube.com/watch?v=yHn5aiR4aw0"
+        },
+        {
+          "titulo": "Top 10 Dunks of Decade",
+          "url": "https://www.youtube.com/watch?v=ue1NT3QhuVU"
+        },
+        {
+          "titulo": "2020 NBA Dunks Full Highlights",
+          "url": "https://www.youtube.com/watch?v=RQxINXr_R5U"
+        }
+      ]
+    },
+    {
+      "titulo": "Dribles",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Jogadas de quebrar tornozelos",
+        "url": "https://globoesporte.globo.com/"
+      },
+      "videos": [
+        {
+          "titulo": "Best of Crossover",
+          "url": "https://www.youtube.com/watch?v=stavqGPfZKI"
+        },
+        {
+          "titulo": "NBA´s Top 100 Crossover of the Decade",
+          "url": "https://www.youtube.com/watch?v=B0pYDrb_nzI"
+        },
+        {
+          "titulo": "Top 100 Handles and Crossover",
+          "url": "https://www.youtube.com/watch?v=4DtLmIdOohI"
+        },
+        {
+          "titulo": "100 Best Crossover",
+          "url": "https://www.youtube.com/watch?v=nqs4dfHtiw0"
+        },
+        {
+          "titulo": "Best Crossover in NBA History",
+          "url": "https://www.youtube.com/watch?v=d74TkJIWqZE"
+        },
+        {
+          "titulo": " Kyrie Irving´s Best Crossover",
+          "url": "https://www.youtube.com/watch?v=qzPENaw5GJw"
+        }
+      ]
+    },
+    {
+      "titulo": "Arremessos ",
+      "cor": "#FF4500",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Best Of Long Distance Shots | 2019-20 NBA Season",
+          "url": "https://www.youtube.com/watch?v=m-k5JO0pcR8"
+        },
+        {
+          "titulo": "Fop 50 Impossible Shots of the 2017 NBA Season",
+          "url": "https://www.youtube.com/watch?v=M_K4IU7t5ok"
+        },
+        {
+          "titulo": "Best 50 Three Pointers: 2018 NBA Season",
+          "url": "hhttps://www.youtube.com/watch?v=s5zKZ7aot6M"
+        },
+        {
+          "titulo": "2019 NBA Three Point Contest - Championship Round - Full Highlights | 2019 NBA All-Star Weekend",
+          "url": "https://www.youtube.com/watch?v=CvqvxT3M1Nw"
+        },
+        {
+          "titulo": "2020 NBA 3-Point Contest - Full Highlights | 2020 NBA All-Star Weekend",
+          "url": "https://www.youtube.com/watch?v=YfNKlVuRhFk"
+        }
+      ]
+    },
+    {
+      "titulo": "Jogadas",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Melhores jogadas do ano",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "NBA's Top 100 Plays Of The Decade",
+          "url": "https://www.youtube.com/watch?v=t22flliJLTQ"
+        },
+        {
+          "titulo": "Best of Plays | 2019-20 NBA Season",
+          "url": "https://www.youtube.com/watch?v=mjjksztJKbw"
+        },
+        {
+          "titulo": "NBA Top 5 Plays Of The Night | July 27, 2020",
+          "url": "https://www.youtube.com/watch?v=-bOHbU3r350"
+        },
+        {
+          "titulo": "NBA's Best Plays | Week 20 | 2019-20 NBA Season",
+          "url": "https://www.youtube.com/watch?v=tKmzQI1BX3A"
+        },
+        {
+          "titulo": "The BEST Plays of the 2019 NBA Finals | Presented by YouTubeTV",
+          "url": "https://www.youtube.com/watch?v=xjPi6IcSH_Q"
+        }
+      ]
+    },
+    {
+      "titulo": "Jogadores",
+      "cor": "red",
+      "link_extra": {
+        "text": "Top 10 melhores jogadores",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Best Of Jayson Tatum | 2019-20 NBA Season",
+          "url": "https://www.youtube.com/watch?v=tgtEGl1xxZ0"
+        },
+        {
+          "titulo": "Best Of Anthony Davis | 2019-20 NBA Season",
+          "url": "https://www.youtube.com/watch?v=beH4x2ivacM"
+        },
+        {
+          "titulo": "Best of Clutch Plays | 2019-20 NBA Season",
+          "url": "https://www.youtube.com/watch?v=S02Jrqwoo0A"
+        },
+        {
+          "titulo": "NBA's Top 60 Assists Of The Decade ",
+          "url": "https://www.youtube.com/watch?v=dtGteEJpX_s"
+        },
+        {
+          "titulo": "Best Of Giannis Antetokounmpo | 2019-20 NBA Season",
+          "url": "https://www.youtube.com/watch?v=wPtPZhDTNPs"
+        },
+        {
+          "titulo": "Best Of Trae Young | 2019-20 NBA Season",
+          "url": "https://www.youtube.com/watch?v=ui5HwJYqoPg"
+        }
+      ]
+    }
+  ]
+}
