@@ -6,7 +6,7 @@ import styled from "styled-components";
 const Main = styled.main`
   background-color: var(--primary);
   color: var(--white);
-  flex: 4;
+  flex: 1;
   padding-top: 50px;
   padding-left: 5%;
   padding-right: 5%;
@@ -15,11 +15,11 @@ const Main = styled.main`
 export default class PageDefault extends Component {
   render() {
     return (
-      <section>
+      <React.Fragment>
         <Menu />
-        {this.props.children}
+        <Main>{this.props.children}</Main>
         <Footer />
-      </section>
+      </React.Fragment>
     );
   }
 }

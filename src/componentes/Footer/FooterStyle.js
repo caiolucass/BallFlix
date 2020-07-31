@@ -10,10 +10,6 @@ export const FooterPrincipal = styled.footer`
   color: var(--white);
   text-align: center;
 
-  .Bola {
-    max-width: 168px;
-  }
-
   .Link:hover {
     opacity: 0.5;
     color: #7d26cd;
@@ -21,8 +17,5 @@ export const FooterPrincipal = styled.footer`
 
   @media (max-width: 800px) {
     margin-bottom: 50px;
-    .Bola {
-      max-width: 105px;
-    }
   }
 `;

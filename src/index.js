@@ -6,6 +6,7 @@ import Home from "./pages/Home";
 /*Criar um rota "SPA" sem o refrash da page*/
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import CadastroVideo from "./pages/CadastroVideo";
+import CadastroCategoria from "./pages/CadastroCategoria";
 
 /*Função para pagina não encontrada/invalida*/
 const Pagina404 = () => <section>Error:404. Página não encontrada</section>;
@@ -15,6 +16,7 @@ ReactDOM.render(
     <Switch>
       <Route path="/" component={Home} exact />
       <Route path="/cadastro/video" component={CadastroVideo} />
+      <Route path="/cadastro/categoria" component={CadastroCategoria} />
       <Route component={Pagina404} />
     </Switch>
   </BrowserRouter>,
