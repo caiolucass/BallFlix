@@ -26,7 +26,7 @@ tambem sera possivel filtrar esses videos por suas categorias a fim de facilitar
 
 🔨 Ferramenta utilizada
 
-    :atom: React js
+:electron: React js
 
 Duvidas ❓
 
