@@ -1,68 +1,55 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🏀 BallFlix 🏀
 
-## Available Scripts
+BallFlix  e um aplicativo de gerenciamento de videos de basquete, onde o usuario pode cadastrar novos videos das suas jogadas preferidas, e para faciliar sua vida
+tambem sera possivel filtrar esses videos por suas categorias a fim de facilitar a busca do usuario pelos videos que o mesmo deseja assistir.
 
-In the project directory, you can run:
+📜 Descricao das Telas
 
-### `npm start`
+:one: Menu iniciar
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+    Na tela do menu iniciar e apresentado ao usuario o botao de cadastrado de novos videos e varias listagens de videos ja caddastrados
+    filtrados por suas categorias.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+:two: Novo video
 
-### `npm test`
+    Na tela de novos video sera possivel cadastrar novos videos do youtube atraves da sua url.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+:three: Nova categoria
 
-### `npm run build`
+    Na tela de nova categoria sera possivel cadastrar novas categorias para os novos videos postados.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+⚠️ Observacoes
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+    A tela de cadastrato de novos videos ainda nao esta disponivel. ❌
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    A tela de cadastro de novas categorias ainda nao esta disponovel. ❌
 
-### `npm run eject`
+🔨 Ferramenta utilizada
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+    :atom: React js
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Duvidas ❓
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+    A aplicação é original e não uma cópia da aplicação de um colega ou de uma aplicação já existente? R: Sim ✔️
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+    A aplicação tem pelo menos duas interfaces (telas ou páginas) independentes? R: Sim ✔️
 
-## Learn More
+    A aplicação armazena e usa de forma relevante dados complexos do usuário? R: Sim ✔️
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    A aplicação foi desenvolvida com o React? R: Sim ✔️
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+    A aplicação contém pelo menos dois componentes React além do componente principal? R: Sim ✔️
 
-### Code Splitting
+    A aplicação possui um manifesto para instalação no dispositivo do usuário? R: Sim ✔️
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+    A aplicação possui um service worker que permite o funcionamento off-line? R: Sim ✔️
 
-### Analyzing the Bundle Size
+    O código da minha aplicação possui comentários explicando cada operação? R: em partes, sim ✔️
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+    A aplicação está funcionando corretamente? R: Nao, ainda nao esta completa. ❌
 
-### Making a Progressive Web App
+    A aplicação está completa? R: Nao, nao esta completa. ❌
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+🧑‍💻 Desenvolvedor:
 
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+    Caio Lucas
