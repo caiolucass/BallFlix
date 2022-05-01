@@ -6,14 +6,11 @@ export default class Footer extends Component {
   render() {
     return (
       <FooterPrincipal>
-        <a href="https://www.alura.com.br/">
+        <a href="">
           <img className="Bola" src={Img} alt="Logo Site" />
         </a>
         <p>
-          Site criado com o aprendizado adquirido durante a{" "}
-          <a className="Link" href="https://www.alura.com.br/">
-            Imersão React da Alura
-          </a>
+          Caio Lucas
         </p>
       </FooterPrincipal>
     );
